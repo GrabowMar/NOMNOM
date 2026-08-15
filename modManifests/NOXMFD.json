@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "NOXMFD_0.20.1.zip",
+      "version": "0.20.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.1",
+      "downloadUrl": "https://github.com/roke77/NOXMFD/releases/download/0.20.1/NOXMFD_0.20.1.zip",
+      "hash": "sha256:f087f22c9165fd4f718e8394fce356db98c8714b542eb538e080d5d7a053b13c"
+    },
+    {
       "fileName": "NOXMFD_0.20.0.zip",
       "version": "0.20.0",
       "category": "release",
@@ -263,5 +272,7 @@
       "hash": "sha256:dd5dc88fb3312e01872ffdd3a0b426506e3cc745417d6049283e0c2f041b84ac"
     }
   ],
-  "downloadCount": 833
+  "downloadCount": 834,
+  "imageUrl": "https://raw.githubusercontent.com/roke77/NOXMFD/main/docs/images/icon.png",
+  "imageHash": "f53ea2c5bad3cd6dcad760159b04dbc9d80c250fd37590198c4f0555198449e0"
 }
