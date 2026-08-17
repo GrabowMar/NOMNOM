@@ -1969,7 +1969,7 @@
         "incompatibilities": []
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 123
   },
   {
     "id": "blueprinter.kestrel",
@@ -3102,7 +3102,7 @@
         ]
       }
     ],
-    "downloadCount": 2091
+    "downloadCount": 0
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -3657,7 +3657,7 @@
         "hash": "sha256:0511ebb64fd6da8fef8780c4dcd81d8b9bc7e54d203ac55503b0813fe22c022b"
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 117
   },
   {
     "id": "dev.dikka.nucleardeathblackout",
@@ -3807,7 +3807,7 @@
         "hash": "sha256:88a3c2e6ff6d5da6a58909625020f058a28fb1f3846b87b07ff0e5111a8cfa58"
       }
     ],
-    "downloadCount": 924
+    "downloadCount": 0
   },
   {
     "id": "dev.dikka.nuclearunits",
@@ -4600,7 +4600,7 @@
         }
       }
     ],
-    "downloadCount": 30172
+    "downloadCount": 0
   },
   {
     "id": "klawshout_voice",
@@ -8370,7 +8370,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 28523
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -8525,10 +8525,10 @@
         ]
       }
     ],
-    "downloadCount": 0,
     "imageUrl": "https://www.tacview.net/img/ico-tacview.png",
     "imageHash": "ce9298cdcef30b7694a2dcc58bc50222b9b41954da553ff6588133964df605fa",
-    "isClientOrServer": "Both"
+    "isClientOrServer": "Both",
+    "downloadCount": 0
   },
   {
     "id": "NOCobra",
@@ -8808,7 +8808,7 @@
         ]
       }
     ],
-    "downloadCount": 490
+    "downloadCount": 0
   },
   {
     "id": "NOCursorOverride",
@@ -9778,9 +9778,9 @@
         "hash": "sha256:dd5dc88fb3312e01872ffdd3a0b426506e3cc745417d6049283e0c2f041b84ac"
       }
     ],
-    "downloadCount": 0,
     "imageUrl": "https://raw.githubusercontent.com/roke77/NOXMFD/main/docs/images/icon.png",
-    "imageHash": "c8cbf823cb5147537769080ef8753109bf1bac3515d17d1c70af68c336294de0"
+    "imageHash": "c8cbf823cb5147537769080ef8753109bf1bac3515d17d1c70af68c336294de0",
+    "downloadCount": 0
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
