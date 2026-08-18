@@ -30,7 +30,7 @@
       "version": "1.0.9",
       "category": "release",
       "type": "addon",
-      "gameVersion": "0.33",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Aryx3D/Aryx-RAH-72-Knockout/releases/download/1.0.9/Aryx_RAH_72_Knockout_1.0.9.dll",
       "hash": "sha256:39a65f6d9a438bb003932fe027620165b7a9ee2a6a47c9abb5a8ae09c565ac5a",
       "extends": {
@@ -156,5 +156,5 @@
       }
     }
   ],
-  "downloadCount": 48611
+  "downloadCount": 48743
 }
