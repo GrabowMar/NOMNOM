@@ -1,13 +1,17 @@
 {
   "id": "OneLife",
   "displayName": "One Life Only",
-  "description": "Mod that adds rescue requirement to allow ejected players to respawn, and adds respawn cooldown to dead players.",
+  "description": "Mod that adds rescue requirement to allow ejected players to respawn, and adds respawn cooldown to dead players. This mod is a WIP! There are bugs that're trying to be fixed, so please be patient :)",
   "tags": [
     "mod",
     "QoL",
     "server",
-    "aircraft",
-    "death"
+    "gameplay",
+    "death",
+    "multiplayer",
+    "difficulty",
+    "immersion",
+    "Host-only"
   ],
   "urls": [
     {
@@ -21,15 +25,16 @@
   ],
   "githubOwner": "Uniplast",
   "githubRepoName": "One-Life",
+  "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "fileName": "OneLife.zip",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "Release",
       "type": "plugin",
       "gameVersion": "0.34.2",
-      "downloadURL": "https://github.com/Uniplast/One-Life/releases/download/v0.1.0/OneLife.zip",
-      "hash": "sha256:b67c47b7b20b8987ceab4660588798debbe545b3059d581a4689337562597ea2"
+      "downloadUrl": "https://github.com/Uniplast/One-Life/releases/download/v0.1.1/OneLife.zip",
+      "hash": "sha256:7cad781255ba7e946c7554c9bc7bbdd01a33b48e8543c0a244d749b1e5a3250e"
     }
   ]
 }
