@@ -12,6 +12,10 @@ NOMNOM is a Community Project, and is not affiliated with Shockfront Studios, th
 
 - [NOMM - Nuclear Option Mod Manager](https://github.com/Combat787/NuclearOptionModManager/) - [DOWNLOAD](https://github.com/Combat787/NuclearOptionModManager/releases/latest)
 
+### How to Add your Nuclear Option Mod to NOMNOM
+- You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
+- To create a new submission for registering a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
+
 ### Mod Submission Acceptance Policy:
 
 #### 1. Open-Source Mandate
@@ -46,8 +50,4 @@ If Custom DLL or Executable Files in your Mod Release(s) are found to be inconsi
   - If your Mod consists of Multiple Files, upload the Release Asset as a Compressed Archive (e.g. zip,rar,7z)
 - Your Mod Release(s) must have a valid tagName that follows some acceptable versioning practice that is easy to parse (e.g. 1.2.3.4 or v1.2.3.4 or v2.0 or 2.0 etc).
 - Your Mod(s) must work with BepInEx 5.
-
-### How to Add your Nuclear Option Mod to NOMNOM
-- You must Understand and Comply with the [Mod Submission Acceptance Policy](README.md#mod-submission-acceptance-policy)
-- To create a new submission for registering a new Mod on NOMNOM, follow [these instructions.](SCHEMA.md#how-to-contribute-mod-manifests)
 
