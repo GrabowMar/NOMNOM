@@ -1,0 +1,45 @@
+{
+  "id": "com.mursisru.x77warewind",
+  "displayName": "X-77 Warewind",
+  "description": "Two-stage hypersonic cruise missile for Nuclear Option. Optical guidance, 700 kg HE, 2800 kg launch mass. Drop, loft, high-altitude cruise, and terminal dive. Add-only on Darkreach and Alkyon HE Piledriver slots. Requires Blueprinter.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter",
+    "missile"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/X-77-Warewind/blob/master/README.md"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Mursisru/X-77-Warewind/releases"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Mursisru",
+  "githubRepoName": "X-77-Warewind",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "X-77-Warewind.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/X-77-Warewind/releases/download/1.0.0/X-77-Warewind.zip",
+      "hash": "sha256:4f00e2cbcdb9fc79beb4ace2c9691805bd99f755be528108b4636ea339aefe22",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    }
+  ]
+}
