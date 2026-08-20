@@ -21,6 +21,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "sitrep-1.0.1.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34",
+      "downloadUrl": "https://github.com/kkingsbe/sitrep/releases/download/v1.0.1/sitrep-1.0.1.zip",
+      "hash": "sha256:3777e3ff36fbf749a799ffc6ec8f9aa8c32ef5212e0c7c31efeb4060672f186e"
+    },
+    {
       "fileName": "sitrep-1.0.0.zip",
       "version": "1.0.0",
       "category": "release",
@@ -30,5 +39,5 @@
       "hash": "sha256:81a7192c8b138162096000b2d6608eb089316eca2fafc29cb350f00d1ead84ea"
     }
   ],
-  "downloadCount": 72
+  "downloadCount": 74
 }
