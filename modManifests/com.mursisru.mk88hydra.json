@@ -1,0 +1,46 @@
+﻿{
+  "id": "com.mursisru.mk88hydra",
+  "displayName": "MK-88 Hydra",
+  "description": "Air-drop anti-ship torpedo for Nuclear Option. Glide to water entry, parachute, underwater sonar (GSN), 450 kg HE. Submerged stealth. Single and dual mounts on Darkreach / Alkyon HE Piledriver slots. Requires Blueprinter.",
+  "tags": [
+    "mod",
+    "Weapon",
+    "blueprinter",
+    "torpedo"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Mursisru/MK-88-Hydra/blob/master/README.md"
+    },
+    {
+      "name": "releases",
+      "url": "https://github.com/Mursisru/MK-88-Hydra/releases"
+    }
+  ],
+  "authors": [
+    "Mursisru"
+  ],
+  "isClientOrServer": "Client",
+  "githubOwner": "Mursisru",
+  "githubRepoName": "MK-88-Hydra",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MK-88-Hydra.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MK-88-Hydra/releases/download/1.0.0/MK-88-Hydra.zip",
+      "hash": "sha256:c736d7b72f347a3f5a7d1a1999586127e50a9ac544e5be9cbc67c97fc6b891aa",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 0
+}
