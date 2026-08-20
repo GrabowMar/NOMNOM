@@ -19,7 +19,7 @@
   "authors": [
     "Mursisru"
   ],
-  "isClientOrServer": "Client",
+  "isClientOrServer": "Both",
   "githubOwner": "Mursisru",
   "githubRepoName": "RepeatTakeoffMusic",
   "autoUpdateArtifacts": "True",
