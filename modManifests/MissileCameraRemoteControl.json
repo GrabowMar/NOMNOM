@@ -24,7 +24,7 @@
       "version": "2.0.2",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.34",
+      "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Mursisru/MissileCamera-Remote-Control/releases/download/2.0.2/MissileCameraRC-2-0-2.zip",
       "hash": "sha256:cf78223ae58e66daac9068e308199de3b528f560f93f37885674563cfef2eded",
       "dependencies": [
@@ -50,5 +50,5 @@
       ]
     }
   ],
-  "downloadCount": 555
+  "downloadCount": 560
 }
