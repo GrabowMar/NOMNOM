@@ -38,8 +38,8 @@
       "hash": "sha256:c1ac1e4879a80da4aff409933d860854d71a80dda73498163bf8ca49e764c7d7",
       "dependencies": [
         {
-          "id": "BepInEx",
-          "version": "5.4.0"
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
         }
       ]
     }
