@@ -22,6 +22,15 @@
   "artifacts": [
     {
       "fileName": "NuclearOptionVWS.dll",
+      "version": "1.2.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Aeriicatmeow/Nuclear-Option-Voice-Warning-System/releases/download/v1.2.4/NuclearOptionVWS.dll",
+      "hash": "sha256:f30f029f34cf5568ee97592488fdb91c50e0e7c5d4aa1badac0ee5634b757e0b"
+    },
+    {
+      "fileName": "NuclearOptionVWS.dll",
       "version": "1.2.3",
       "category": "release",
       "type": "plugin",
@@ -66,5 +75,5 @@
       "hash": "sha256:a9931eab5c593e3d3f5676a16ddf54fd0b5e54e06f226fb7695d698602bad50a"
     }
   ],
-  "downloadCount": 1621
+  "downloadCount": 1638
 }
