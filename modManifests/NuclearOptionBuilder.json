@@ -26,13 +26,7 @@
   ],
   "githubOwner": "cdavenport1",
   "githubRepoName": "BuildingPlacement",
-  "autoUpdateArtifacts": "False",
-  "dependencies": [
-    {
-      "id": "BepInEx",
-      "version": "5.4.0"
-    }
-  ],
+  "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "fileName": "NuclearOptionBuilder.zip",
@@ -41,7 +35,13 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/cdavenport1/BuildingPlacement/releases/download/v1.1.1/NuclearOptionBuilder.zip",
-      "hash": "sha256:c1ac1e4879a80da4aff409933d860854d71a80dda73498163bf8ca49e764c7d7"
+      "hash": "sha256:c1ac1e4879a80da4aff409933d860854d71a80dda73498163bf8ca49e764c7d7",
+      "dependencies": [
+        {
+          "id": "BepInEx",
+          "version": "5.4.0"
+        }
+      ]
     }
   ]
 }
