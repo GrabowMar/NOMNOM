@@ -28,6 +28,21 @@
   "artifacts": [
     {
       "fileName": "X-77-Warewind.zip",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/X-77-Warewind/releases/download/1.0.1/X-77-Warewind.zip",
+      "hash": "sha256:dd2c6e998d9324914162f82ed06ecf309ec6978f27c719f3756a638577b69153",
+      "dependencies": [
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.21"
+        }
+      ]
+    },
+    {
+      "fileName": "X-77-Warewind.zip",
       "version": "1.0.0",
       "category": "release",
       "type": "plugin",
@@ -42,5 +57,5 @@
       ]
     }
   ],
-  "downloadCount": 445
+  "downloadCount": 456
 }
