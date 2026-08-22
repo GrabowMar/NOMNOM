@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "com.mursisru.mk88hydra",
   "displayName": "MK-88 Hydra",
   "description": "Air-drop anti-ship torpedo for Nuclear Option. Glide to water entry, parachute, underwater sonar (GSN), 450 kg HE. Submerged stealth. Single and dual mounts on Darkreach / Alkyon HE Piledriver slots. Requires Blueprinter.",
@@ -42,5 +42,5 @@
       ]
     }
   ],
-  "downloadCount": 0
+  "downloadCount": 152
 }

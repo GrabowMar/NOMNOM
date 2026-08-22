@@ -20,6 +20,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MissileCamera-2-1-0-pre.1.zip",
+      "version": "2.1.0.1",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.34.2",
+      "downloadUrl": "https://github.com/Mursisru/MissileCamera/releases/download/v2.1.0-pre.1/MissileCamera-2-1-0-pre.1.zip",
+      "hash": "sha256:ccb3b9f4a49135dcc3a5b92b1a001601e5c91692a35b0f4595d2583aa684aa37"
+    },
+    {
       "fileName": "MissileCamera-2-0-0.zip",
       "version": "2.0.0",
       "category": "release",
@@ -29,6 +38,6 @@
       "hash": "sha256:0ece977a524ed76bf99b79704e661fdf9f3dea74cddcaafa9e558d36b0640c56"
     }
   ],
-  "downloadCount": 1244,
+  "downloadCount": 1246,
   "isClientOrServer": "Both"
 }
