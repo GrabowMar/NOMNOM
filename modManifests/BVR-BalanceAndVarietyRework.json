@@ -22,7 +22,7 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.1.5/BVR-BalanceAndVarietyRework.zip",
-      "hash": "sha256:6767dbcb36dfcf12b774b3c27d543896733ade2087060c6639e32844f9bf7059"
+      "hash": "sha256:6767dbcb36dfcf12b774b3c27d543896733ade2087060c6639e32844f9bf7059",
 	  "dependencies": [
       ]
     },
@@ -33,7 +33,7 @@
       "type": "plugin",
       "gameVersion": "0.34.2",
       "downloadUrl": "https://github.com/Drkn420/BVR-BalanceAndVarietyRework/releases/download/v1.0.9/0.34.BVR.-.Balance.and.Variety.Rework.1.0.9.dll",
-      "hash": "sha256:ba8467b4249fb68b690c88326dc7559366f6e6678d2083f46b8f6a1caa731980"
+      "hash": "sha256:ba8467b4249fb68b690c88326dc7559366f6e6678d2083f46b8f6a1caa731980",
 	  "dependencies": [
       ]
     }
