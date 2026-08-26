@@ -1,0 +1,35 @@
+{
+  "id": "com.iallemege.oritasy",
+  "displayName": "Oritasy",
+  "description": "Nuclear Option gameplay pack: hangar aircraft, flight assists, HUD tools, WeXon weapons, TGM-85. Standard Edition (EN/ZH). Copy zip contents into BepInEx/plugins. Do not also load the D edition (same GUID).",
+  "tags": [
+    "Aircraft",
+    "QoL",
+    "Weapons"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/iallemege/Oritasy-System"
+    }
+  ],
+  "authors": [
+    "IAllemege",
+    "qiaochen"
+  ],
+  "githubOwner": "iallemege",
+  "githubRepoName": "Oritasy-System",
+  "autoUpdateArtifacts": "True",
+  "isClientOrServer": "Both",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "Oritasy_0.0.9.197C.zip",
+      "downloadUrl": "https://github.com/iallemege/Oritasy-System/releases/download/0.0.9.197C/Oritasy_0.0.9.197C.zip",
+      "hash": "sha256:e250c7f8b3d0e44c27d3ec62bd8dd7eb8da6d91f3637e4387a005f3387b8a330",
+      "gameVersion": "0.34.2",
+      "version": "0.0.9.197",
+      "category": "release"
+    }
+  ]
+}
